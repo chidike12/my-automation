@@ -2,7 +2,7 @@ from cmd type in the kep pair you downloaded when you installed your EC3 isntanc
 from cmd cd to cd Downloads
 type Dir -- to see the pem file then change the name to .pub  
 
-ssh -keypen -y -f myNewkp.pem > mykp.pub 
+
 
 then rename the file to ren mycloudkey.pem mykp or ren myNewkp.pem myNewkp
 
